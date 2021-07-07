@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ArturPrograms
+- 👀 I’m interested in game engine development, and game development
+- 🌱 I’m currently learning C++, OpenGL, DirectX
+- 💞️ I’m looking to collaborate on indie games :D
+- 📫 How to reach me dm me on twitter @ArturPrograms
